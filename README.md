@@ -103,7 +103,7 @@ Image Credits:
 
 [pickaface](http://pickaface.net/ "")
 
-<img src="https://raw.github.com/r4nd1/template-cpanel-admin-lte/demo-img/admin_template_lte.PNG" width="900" />
+<img src="https://raw.github.com/r4nd1/template-cpanel-admin-lte/master/demo-img/admin_template_lte.PNG" width="900" />
 
 ## Uploader
 * Name: Randy Riolis
